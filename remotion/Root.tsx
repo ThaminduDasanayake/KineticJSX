@@ -1,4 +1,5 @@
 import React from "react";
+import "../app/globals.css";
 import { Composition } from "remotion";
 import { KineticShowcase } from "./compositions/KineticShowcase";
 import { defaultVideoProps } from "./types";
